@@ -19,3 +19,7 @@ I am working as a Junior Data Analyst at RetailTech Insights, a company that pro
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined. 
+
+### Tools Used
+- Ms Excel for data cleansing, for data analysis and for dashboard building.
+
