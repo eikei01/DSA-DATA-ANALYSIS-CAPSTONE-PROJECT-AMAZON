@@ -18,8 +18,11 @@ I am working as a Junior Data Analyst at RetailTech Insights, a company that pro
 11. How does the rating relate to the level of discount? 
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
-14. Identify the top 5 products in terms of rating and number of reviews combined. 
+14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+
 
 ### Tools Used
 - Ms Excel for data cleansing, for data analysis and for dashboard building.
-
+- Ms Excel used for the dashboard built can be viewed. [Downloaded here] 
+[Amazon case study.xlsx](https://github.com/user-attachments/files/21070059/Amazon.case.study.xlsx)
